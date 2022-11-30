@@ -1,11 +1,10 @@
 {
   "development": {
     "username": "root",
-    "password": null,
+    "password": "enterthematrix1",
     "database": "escola_ingles",
     "host": "127.0.0.1",
-    "dialect": "mysql",
-    "operatorsAliases": false
+    "dialect": "mysql"
   },
   "test": {
     "username": "root",
